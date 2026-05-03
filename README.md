@@ -1,6 +1,6 @@
 # 🏥 Healthcare Analytics [End-to-End Data Analysis]
 
-A complete Python analytics pipeline built across 5,000 synthetic patient records — covering data generation, exploratory data analysis, a 12-panel visual dashboard, and a machine learning model predicting 30-day hospital readmission risk.
+A complete Python analytics pipeline built across 5,000 synthetic patient records  covering data generation, exploratory data analysis, a 12-panel visual dashboard, and a machine learning model predicting 30-day hospital readmission risk.
 
 ---
 
