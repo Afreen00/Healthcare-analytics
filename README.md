@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analytics — End-to-End Data Analysis
+# 🏥 Healthcare Analytics/End-to-End Data Analysis
 
 A complete Python analytics pipeline across 5,000 patient records — covering data generation, exploratory analysis, a 12-panel visual dashboard, and a machine learning model for predicting 30-day readmission risk.
 
